@@ -3,14 +3,14 @@
   "version": "2.3.0",
   "type": "module",
   "description": "Starter kit for modern web applications",
-  "homepage": "https://react-pwa.surenatoyan.com/",
+  "homepage": "https://react-pwa.nishaKumari.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/suren-atoyan/react-pwa.git"
+    "url": "https://github.com/nisha-kumari/react-pwa.git"
   },
   "bugs": {
-    "url": "https://github.com/suren-atoyan/react-pwa/issues",
-    "email": "contact@surenatoyan.com"
+    "url": "https://github.com/nisha-kumari/react-pwa/issues",
+    "email": "snisha745.com"
   },
   "license": "MIT",
   "scripts": {
